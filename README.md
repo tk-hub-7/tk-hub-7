@@ -14,30 +14,55 @@ Bachelor of Technology (B.Tech)
 
 Kakatiya University College of Engineering and Technology
 CGPA: 9.08/10
+
 🛠 Technical Skills
+
 Data Analytics
+
 SQL (PostgreSQL, MySQL)
+
 Power BI
+
 Microsoft Excel
+
 Python
+
 SQL
+
 Joins
+
 Subqueries
+
 CTEs
+
 Window Functions
+
 Views
+
 Aggregate Functions
+
 Query Optimization
+
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 BI & Visualization
+
 Power BI
+
 DAX
+
 Data Storytelling
+
 Dashboard Development
+
 📂 Featured Projects
+
 🎵 Spotify Streaming Data Analysis
 
 Advanced SQL project analyzing streaming performance, artist rankings, engagement metrics, and audio features.
@@ -51,15 +76,25 @@ Analyzed healthcare datasets to identify trends, KPIs, and business insights usi
 Developed interactive dashboards for reporting and decision-making.
 
 📜 Certifications
+
 SQL Certifications 
+
 Power BI Certifications
+
 Data Analytics Training Programs
+
 🌱 Currently Learning
+
 Advanced SQL
+
 Power BI
+
 Python for Data Analytics
+
 Machine Learning Fundamentals
+
 Generative AI for Analytics
+
 📫 Connect With Me
 
 LinkedIn: www.linkedin.com/in/karthik-thakkalapelly-60623a266
